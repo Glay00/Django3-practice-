@@ -1,4 +1,4 @@
-FROM python:apline
-WORKDIR /APP
-COPY . .
-CMD ["python","firstApp"]
+# FROM python:apline
+# WORKDIR /APP
+# COPY . .
+# CMD ["python","firstApp"]
