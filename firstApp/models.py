@@ -27,3 +27,4 @@ class Rubric(models.Model):
         verbose_name_plural='Рубрики'
         verbose_name='Рубрика'
         ordering=['name']
+
